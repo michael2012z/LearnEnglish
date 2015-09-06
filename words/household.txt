@@ -1,0 +1,51 @@
+quilt				被子 
+quilt cover				被套 
+pillow				枕头 
+mosquito curtain/mosquito net/bed net				蚊帐 
+bedcover/bedsheet/bedspread				床单
+a towel used to cover a pillow/a towel used as a pillow cover				枕巾
+blanket				毯子 
+trousers/pants				裤子
+skirt				裙子 
+T-shirt				T恤 
+shirt				衬衫 
+suit				西装 
+underclothes/underwear/underdress				内衣
+shoes				鞋子 
+socks				袜子 
+slippers				拖鞋 
+sneakers				旅游鞋，运动鞋，帆布鞋 
+leather shoes				皮鞋 
+towel				毛巾 
+bath towel				浴巾 
+bathtub				浴缸 
+toothbrush				牙刷 
+toothpaste				牙膏 
+soap				香皂，肥皂 
+shampoo				洗发水 
+facial washing milk				洗面奶 
+washing powder				洗衣粉 
+brush				刷子 
+comb				梳子 
+toothpick				牙签 
+desk/table				桌子
+chair				椅子
+armchair				扶手椅
+stool				凳子
+bench				长凳
+cupboard				碗柜
+cabinet				壁橱
+drawer				抽屉 
+bed				床 
+thermos				暖水瓶 
+cup				杯 
+bowl				碗 
+chopsticks				筷 
+umbrella				伞 
+coat hanger/clothes rack/clothes stand				衣架
+shoe rack				鞋架 
+lamp				灯 
+daylight lamp/sun lamp				日光灯
+desk lamp/table lamp/reading lamp				台灯
+street light/street lamp/road lamp				路灯
+				

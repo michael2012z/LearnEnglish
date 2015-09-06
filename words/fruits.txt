@@ -1,0 +1,60 @@
+almond 							杏仁
+apple 							苹果
+apricot 						杏子
+arbutus 						杨梅
+avocado 						鳄梨
+banana 							香蕉
+bagasse 						甘蔗渣
+berry 							桨果
+betelnut 						槟榔
+black brin 						黑布林
+blackberry 						刺梅
+blueberry 						蓝莓
+carambola 						杨桃
+cherry 							樱桃
+chestnut 						栗子
+coconut 						椰子
+codlin 							未熟苹果
+core 							果心
+cranberry 						蔓越莓
+cumquat 						金桔
+date 							枣子
+dew 							果露
+durian 							榴莲
+fig 							无花果
+filbert 						榛子
+ginkgo 							银杏
+grape 							葡萄
+haw 							山楂
+honey-dew melon 				哈蜜瓜
+juicy peach 					水蜜桃
+kiwifruit 						奇异果，猕猴桃
+lemon 							柠檬
+lichee 							荔枝
+longan 							龙眼、桂圆
+loquat 							枇杷
+lotus nut 						莲子
+mango 							芒果
+mangosteen 						山竹果
+nectarine 						油桃
+olive 							橄榄
+orange 							橙子
+papaya/pawpaw					木瓜
+peach 							桃子
+peanut 							花生
+pear 							梨
+persimmon 						柿子
+pineapple 						凤梨
+pistachio 						开心果
+pitaya 							火龙果
+plum 							梅子
+pomegranate 					石榴
+pomelo 							柚子
+raspberry 						覆盆子
+shaddock 						文旦
+strawberry 						草莓
+sugarcane 						甘蔗
+walnut 							核桃
+water caltrop 					菱角
+water chestnut 					马蹄、荸荠
+watermelon 						西瓜

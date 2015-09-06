@@ -1,0 +1,4 @@
+almond 							杏仁
+apple 							苹果
+apricot 						杏子
+papaya/pawpaw					木瓜

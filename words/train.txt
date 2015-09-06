@@ -1,0 +1,35 @@
+dining car/restaurant car/diner						餐车
+wagon  				  								车皮
+pantry												茶水间
+carriage/coach/car									车厢
+roof 												车顶
+concertina walls 									(车厢通道两侧的）伸缩篷
+step/foot board 									(车厢门口的）踏板
+gangway   											(车厢的）通道
+lidded ashtray 										带盖烟灰盒
+tank wagon 											罐车
+mixed train 										混合列车
+freight train/goods train 							货物列车
+engine/locomotive 									机车
+window seat 										靠窗座位
+coach/passenger train 								客车
+express train/express 								快车
+refrigerator wagon 									冷藏车
+car attendant/ train attendant 						列车员
+guard/conductor 	 								列车长
+slow train/way train 								慢车
+ordinary train 										普通列车
+sleeping carriage with cushioned berths 			软卧客车
+up train 		  	   			 					上行车
+livestock wagon 									牲畜车
+sleeping car/sleeper 								卧车
+down train 											下行车
+luggage van/baggage car 							行李车
+rack/baggage rack 									行李架
+sleeping carriage with semicushioned berths			硬卧客车
+ordinary seat 	  	   				 				硬席
+carriage with semicushioned seats 					硬座车
+mail car 	  										邮政车
+mail and luggage van 								邮政行李车
+through train 	 									直达车
+special train										专车

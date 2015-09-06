@@ -1,0 +1,58 @@
+meat											肉
+beef											牛肉
+veal											小牛肉
+lamb											羊肉
+sirloin											牛脊肉
+steak											牛排
+chop											连骨肉,排骨
+cutlet											肉条
+stew											炖肉
+roast											烤肉
+pork											猪肉
+ham												火腿
+bacon											咸肉
+sausage											香肠
+black pudding/blood sausage						血肠
+cold meats/cold cuts							冷盘
+chicken											鸡
+turkey											火鸡
+duck											鸭
+fish											鱼
+vegetable										蔬菜
+dried legumes									干菜
+chips/French fries								炸薯条,炸土豆片
+mashed potatoes									马铃薯泥
+pasta											意大利面
+noodles											面条,挂面
+macaroni										通心粉
+broth											肉汤
+milk											奶
+cheese											奶酪
+butter											奶油
+bread											面包
+slice of bread									面包片
+crust											面包皮
+egg												蛋
+boiled eggs/soft-boiled eggs					水煮蛋
+hard-boiled eggs								煮硬了的蛋
+fried eggs										煎蛋
+poached eggs									荷包蛋
+scrambled eggs									炒鸡蛋,摊鸡蛋
+omelet											煎蛋卷
+pastry											糕点
+sponge cake										奶油蛋糕
+tart											馅饼
+biscuits										(英)饼干,(美)小面包
+fruit											水果
+ice cream										冰淇淋
+compote											蜜饯
+jam/preserves									酱
+spices											调料
+salt											盐
+vinegar											醋
+sauce											酱油
+oil												油
+salad oil										色拉油
+pepper											辣椒
+mustard											芥末
+clove											丁香
